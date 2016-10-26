@@ -17,7 +17,7 @@ archive_date_format: MMM YYYY
 # Comments.
 comments:
   # Disqus comments
-  disqus_shortname:
+  disqus_shortname: spotscafeblog
 
 # Google Analytics Tracking ID
 google_analytics:
